@@ -1,0 +1,73 @@
+.catalog {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  padding: 20px 0;
+}
+
+.addForm {
+  margin: 0 auto 20px;
+  max-width: 700px;
+  background: #1e1e1e;
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.formTitle {
+  margin: 0 0 12px;
+  text-align: center;
+}
+
+.input {
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #333;
+  background: #121212;
+  color: white;
+  outline: none;
+}
+
+.button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0;
+  background: #1b2838;
+  color: white;
+  cursor: pointer;
+}
+
+.button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.hint {
+  margin-top: 10px;
+  opacity: 0.75;
+  font-size: 12px;
+  text-align: center;
+}
+
+.infoBox {
+  margin: 0 auto 20px;
+  max-width: 700px;
+  padding: 12px;
+  border: 1px solid #333;
+  border-radius: 10px;
+  background: #1e1e1e;
+}
+
+.errorBox {
+  margin: 0 auto 20px;
+  max-width: 700px;
+  padding: 12px;
+  border: 1px solid #333;
+  border-radius: 10px;
+  background: rgba(255, 0, 0, 0.12);
+}

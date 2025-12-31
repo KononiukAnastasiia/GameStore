@@ -1,0 +1,15 @@
+.homeHeader {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  text-align: center;
+}
+
+.pageHeader {
+  background-color: #1b2838;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+}

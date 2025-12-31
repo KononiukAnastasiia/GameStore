@@ -1,0 +1,82 @@
+[
+  {
+    "id": "g1",
+    "title": "Cyberpunk 2077",
+    "genre": "Екшен, РПГ",
+    "price": "1099₴.",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1674744039",
+    "link": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
+  },
+  {
+    "id": "g2",
+    "title": "Red Dead Redemption 2",
+    "genre": "Пригоди, Екшен",
+    "price": "899₴.",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg?t=1675377025",
+    "link": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
+  },
+  {
+    "id": "g3",
+    "title": "Dota 2",
+    "genre": "Моба, Стратегія",
+    "price": "Безкоштовно",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_616x353.jpg?t=1676550934",
+    "link": "https://store.steampowered.com/app/570/Dota_2/"
+  },
+  {
+    "id": "g4",
+    "title": "Grand Theft Auto V",
+    "genre": "Екшен, Відкритий світ",
+    "price": "358₴.",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_616x353.jpg?t=1676569137",
+    "link": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/"
+  },
+  {
+    "id": "g5",
+    "title": "The Witcher 3: Wild Hunt",
+    "genre": "РПГ, Екшен",
+    "price": "182₴.",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg?t=1676550989",
+    "link": "https://store.steampowered.com/app/292030/"
+  },
+  {
+    "id": "g6",
+    "title": "Counter-Strike: Global Offensive",
+    "genre": "Шутер, Екшен",
+    "price": "Безкоштовно",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1676566921",
+    "link": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"
+  },
+  {
+    "id": "g7",
+    "title": "Total War: WARHAMMER II",
+    "genre": "Стратегія",
+    "price": "237₴.",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/594570/capsule_616x353.jpg?t=1676567444",
+    "link": "https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/"
+  },
+  {
+    "id": "g8",
+    "title": "Terraria",
+    "genre": "Пригоди, Пісочниця",
+    "price": "225₴.",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/capsule_616x353.jpg?t=1676571130",
+    "link": "https://store.steampowered.com/app/105600/Terraria/"
+  },
+  {
+    "id": "g9",
+    "title": "Stardew Valley",
+    "genre": "РПГ, Симулятор",
+    "price": "229₴.",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_616x353.jpg?t=1676568661",
+    "link": "https://store.steampowered.com/app/413150/Stardew_Valley/"
+  },
+  {
+    "id": "g10",
+    "title": "Monster Hunter: World",
+    "genre": "Екшен, РПГ",
+    "price": "313₴.",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_616x353.jpg?t=1676552345",
+    "link": "https://store.steampowered.com/app/582010/Monster_Hunter_World/"
+  }
+]
